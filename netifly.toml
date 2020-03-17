@@ -1,5 +1,5 @@
 [[redirects]]
-from = "/thankyou.html"
-to = "/thankyou"
+from = "/thankyou"
+to = "/thankyou.html"
 status = 301
 force = false
